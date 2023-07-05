@@ -1,0 +1,8 @@
+{
+  "gclu": "../gclu",
+  "selected_data": "../../data/selected_data",
+  "connected_levels_solutions": "../../data/selected_solutions/lev_con",
+  "connected_levels_solutions_csv": "../../data/selected_solutions/lev_con/lev_con.csv",
+  "all_levels_solutions": "../../data/selected_solutions/lev_con",
+  "all_levels_solutions_csv": "../../data/selected_solutions/lev_con/lev_all.csv"
+}
