@@ -1,5 +1,12 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cda-tum/qmap/main/docs/source/_static/mqt_light.png" width="60%">
+    <img src="https://raw.githubusercontent.com/cda-tum/qmap/main/docs/source/_static/mqt_dark.png" width="60%">
+  </picture>
+</p>
+
 # MQT Qudit Compression - A Tool For Mapping Qubit Logic on Qudit Systems
 
 A tool for mapping qubits on a qudit architecture of preferred size
