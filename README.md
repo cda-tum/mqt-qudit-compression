@@ -1,3 +1,7 @@
+> [!WARNING]
+> As of May 2024, this repository is no longer actively maintained. All code has been directly integrated into [MQT Qudits](https://github.com/cda-tum/mqt-qudits).
+> Development is expected to continue there. No new contributions will be accepted here.
+
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 <p align="center">
