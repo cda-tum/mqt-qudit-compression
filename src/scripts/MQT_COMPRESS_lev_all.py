@@ -47,7 +47,7 @@ for file in os.listdir(directory):
 fileslist.sort(key=lambda f: int(re.sub("\\D", "", f)))
 
 for ix, _f in enumerate(fileslist):
-    filename = fileslist[ix]
+    filename = _f
     qc = QuantumCircuit.from_qasm_file(path + "/" + filename)
 
     parsed_circ, numqubits = collect_instr(qc)
